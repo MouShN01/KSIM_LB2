@@ -218,11 +218,3 @@ $$
 Опрацьовано глобальні та індивідуальні змінні, списки, цикл `while`, вибір клітинок, `ask`, створення й видалення агентів, умови та оновлення графіків. Нові правила поєднано з початковим алгоритмом пошуку й перенесення їжі.
 
 Обчислювальний експеримент показав, що за обраних налаштувань середній результат після змін нижчий, а чисельність колонії скорочується попри народження. Висновки стосуються перевірених параметрів і 1000 тактів; кінцева чисельність не є оцінкою довготривалої рівноваги. Розподіл віку, витрати на народження та межа життя є спрощеними припущеннями моделі, які не калібрувалися за реальними колоніями.
-
-## Джерела
-
-1. [Методичні вказівки до лабораторної роботи №2](https://github.com/knureigs/GitHubDocs_Simulation/blob/main/lb/Simulation_Lab2/tutorial.md).
-2. [Приклад оформлення](https://github.com/knureigs/GitHubDocs_Simulation/blob/main/lb/Simulation_Lab2/example.md).
-3. Wilensky, U. (1997). [NetLogo Ants model](https://ccl.northwestern.edu/netlogo/models/Ants).
-4. [NetLogo Programming Guide](https://docs.netlogo.org/programming.html).
-5. [Команда die](https://docs.netlogo.org/dict/die.html), [patch-here](https://docs.netlogo.org/dict/patch-here.html), [plotxy](https://docs.netlogo.org/dict/plotxy.html).
